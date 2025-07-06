@@ -1,0 +1,48 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value               Device              Package      Library       Sheet
+
+CN2      2-PIN_FAN_CONNECTOR 2-PIN_FAN_CONNECTOR MOLEX-X2     fan_conn      1
+CN3      2-PIN_FAN_CONNECTOR 2-PIN_FAN_CONNECTOR MOLEX-X2     fan_conn      1
+LED-12V1                     LEDSQR2X5           LED2X5       led           1
+LED-12V2                     LEDSQR2X5           LED2X5       led           1
+LED5V1                       LEDSQR2X5           LED2X5       led           1
+LED5V2                       LEDSQR2X5           LED2X5       led           1
+LED5V3                       LEDSQR2X5           LED2X5       led           1
+LED5V4                       LEDSQR2X5           LED2X5       led           1
+LED12V1                      LEDSQR2X5           LED2X5       led           1
+LED12V2                      LEDSQR2X5           LED2X5       led           1
+LEDFAN1                      LEDSQR2X5           LED2X5       led           1
+LEDFAN2                      LEDSQR2X5           LED2X5       led           1
+LEDMAIN                      LED5MM              LED5MM       led           1
+R1       1k                  R-EU_R0805          R0805        resistor      1
+R2       2k2                 R-EU_R0805          R0805        resistor      1
+R3       2k2                 R-EU_R0805          R0805        resistor      1
+R4       2k2                 R-EU_R0805          R0805        resistor      1
+R5       2k2                 R-EU_R0805          R0805        resistor      1
+R6       2k2                 R-EU_R0805          R0805        resistor      1
+R7       2k2                 R-EU_R0805          R0805        resistor      1
+R8       1k                  R-EU_R0805          R0805        resistor      1
+R9       1k                  R-EU_R0805          R0805        resistor      1
+R10      1k                  R-EU_R0805          R0805        resistor      1
+R11      1k                  R-EU_R0805          R0805        resistor      1
+R12      470                 R-EU_0617/22        0617/22      resistor      1
+R13      470                 R-EU_0617/22        0617/22      resistor      1
+R14      470                 R-EU_0617/22        0617/22      resistor      1
+R15      470                 R-EU_0617/22        0617/22      resistor      1
+R16      33                  R-EU_0617/22        0617/22      resistor      1
+R17      33                  R-EU_0617/22        0617/22      resistor      1
+R18      33                  R-EU_0617/22        0617/22      resistor      1
+R19      33                  R-EU_0617/22        0617/22      resistor      1
+SW1      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW2      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW3      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW4      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW5      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW6      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW7      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW8      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW9      2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
+SW10     2-POSITION_SWITCH   2-POSITION_SWITCH   2PSW         2pos_switch   1
